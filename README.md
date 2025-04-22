@@ -11,3 +11,4 @@ Pirmais Unity 2D projekts, apgustam UI elementu lietosanu
 - [ ] Otras ainas (scene) ieviesana
 - [ ] Collider 2D un Rigidbody 2D (fizikas speka iedarbiba)
 - [ ] Virtulu spavneris
+![MR.Bean ](https://static.wikia.nocookie.net/mrbean/images/9/9c/Mr_bean_side_profile.png/revision/latest/scale-to-width/360?cb=20230724064238)
